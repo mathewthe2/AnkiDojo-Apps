@@ -9,6 +9,7 @@
     "title": "Template",
     "author": "Anki Dojo",
     "description": "App template for developers",
-    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/template/icon.png"
+    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/template/icon.png",
+    "url": "https://mathewthe2.github.io/AnkiDojo-Apps/template/index.html"
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
+    "id": "conjugation_drill",
     "title": "Don's Japanese Conjugation Drill",
     "author": "wkdonc",
     "description": "Practice conjugations for verbs, い adjectives and な adjectives.",
-    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/apps/conjugation_drill/icon.png",
-    "url": "https://mathewthe2.github.io/AnkiDojo-Apps/apps/conjugation_drill/index.html"
+    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/apps/conjugation_drill/icon.png"
   },
   {
+    "id": "template",
     "title": "Template",
     "author": "Anki Dojo",
     "description": "App template for developers",
-    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/template/icon.png",
-    "url": "https://mathewthe2.github.io/AnkiDojo-Apps/template/index.html"
+    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/template/icon.png"
   }
 ]

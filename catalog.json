@@ -13,7 +13,7 @@
     "title": "Genki Exercises 3rd Edition",
     "author": "Anki Dojo",
     "description": "Exercises for use with Genki: An Integrated Course in Elementary Japanese textbooks (Third Edition)",
-    "icon": "",
+    "icon": "https://raw.githubusercontent.com/mathewthe2/AnkiDojo-Apps/main/apps/genki_study_resources_third_edition/icon.png",
     "url": "https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/",
     "anki_integration": false
   }

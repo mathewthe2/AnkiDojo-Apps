@@ -9,12 +9,12 @@
     "anki_integration": false
   },
   {
-    "id": "template",
-    "title": "Template",
+    "id": "genki_edition_3",
+    "title": "Genki Exercises 3rd Edition",
     "author": "Anki Dojo",
-    "description": "App template for developers",
-    "icon": "https://github.com/mathewthe2/AnkiDojo-Apps/raw/main/template/icon.png",
-    "url": "https://euclidean-whale.itch.io/taipo",
+    "description": "Exercises for use with Genki: An Integrated Course in Elementary Japanese textbooks (Third Edition)",
+    "icon": "",
+    "url": "https://sethclydesdale.github.io/genki-study-resources/lessons-3rd/",
     "anki_integration": false
   }
 ]
